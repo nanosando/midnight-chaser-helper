@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/midnight-chaser-helper/static/css/main.99545c22.css",
+    "main.js": "/midnight-chaser-helper/static/js/main.0f8fcab6.js",
+    "static/js/787.7486fbc4.chunk.js": "/midnight-chaser-helper/static/js/787.7486fbc4.chunk.js",
+    "static/media/2.png": "/midnight-chaser-helper/static/media/2.089fb51cfc86d85c4a41.png",
+    "static/media/8.png": "/midnight-chaser-helper/static/media/8.efc50c5b5e053eda3078.png",
+    "static/media/7.png": "/midnight-chaser-helper/static/media/7.6f1b16265fd71a42b2a7.png",
+    "static/media/3.png": "/midnight-chaser-helper/static/media/3.738a3bf39234db5aa3d7.png",
+    "static/media/5.png": "/midnight-chaser-helper/static/media/5.dc3e8c1803b36eee01c8.png",
+    "static/media/1.png": "/midnight-chaser-helper/static/media/1.c73efef63efd80881d65.png",
+    "static/media/4.png": "/midnight-chaser-helper/static/media/4.973a22dfb7d8112e696f.png",
+    "static/media/6.png": "/midnight-chaser-helper/static/media/6.5420851dd3db9b93cce0.png",
+    "static/media/9.png": "/midnight-chaser-helper/static/media/9.78dfb046a269e4925289.png",
+    "index.html": "/midnight-chaser-helper/index.html",
+    "main.99545c22.css.map": "/midnight-chaser-helper/static/css/main.99545c22.css.map",
+    "main.0f8fcab6.js.map": "/midnight-chaser-helper/static/js/main.0f8fcab6.js.map",
+    "787.7486fbc4.chunk.js.map": "/midnight-chaser-helper/static/js/787.7486fbc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99545c22.css",
+    "static/js/main.0f8fcab6.js"
+  ]
+}
